@@ -19,7 +19,7 @@ To run this project, you will need:
 1. Clone this repository:
    
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/wyattmatt/Heart-In-8086-Assembly.git
    ```
 2. Open the `.asm` file in your preferred 8086 compiler or emulator.
 3. Assemble and run the program.
