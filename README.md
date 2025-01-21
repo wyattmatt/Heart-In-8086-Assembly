@@ -1,4 +1,4 @@
-# Make Heart Shape with Assembly Language in 8086 Compiler
+# Heart Shape with Assembly Language in 8086 Compiler
 
 ## Description
 This project demonstrates how to create a heart shape using assembly language for the 8086 microprocessor. The program leverages low-level programming concepts to produce a graphical representation of a heart shape, showcasing creativity and technical skills in assembly language programming.
